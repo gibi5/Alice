@@ -1,0 +1,40 @@
+body{
+    font-size:100%;
+}
+
+li{
+float:left;
+list-style:none;
+}
+ 
+.header{
+    background-color: beige;
+    height:90px;
+}
+
+.header-logo{
+    float:left;
+    font-size:50px;
+    color:sienna;
+    margin-left:200px;
+    padding-top:15px;
+    font-weight: 25px;
+}
+
+.header-list li{
+    float:right;
+    padding:33px 20px;
+    margin-right:50px;
+    font-size: 30px;
+}
+
+.main{
+    padding:100px 80px;
+    background-color:bisque;
+}
+
+.contents{
+    background-color:bisque;
+}
+
+
