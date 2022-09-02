@@ -6,7 +6,10 @@ li{
 float:left;
 list-style:none;
 }
- 
+a{
+    color:white;
+    letter-spacing:2px;
+} 
 .header{
     background-color: beige;
     height:90px;
@@ -42,6 +45,10 @@ list-style:none;
     text-align: center;
 }
 
+.card-container{
+    display:flex;
+}
+
 .footer{
     background-color: rgb(10, 32, 226);
     color:#eee;
@@ -56,10 +63,10 @@ list-style:none;
 
 .footer-list{
     float:right;
+    
 }
 
 .footer-list li{
     padding-bottom:20px;
-    letter-spacing: 15px;
+    letter-spacing: 5px;
 }
-
