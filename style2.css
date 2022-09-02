@@ -1,5 +1,6 @@
 body{
     font-size:100%;
+    font-family:serif;
     
 }
 
@@ -51,7 +52,7 @@ a{
 }
 
 .footer{
-    background-color: rgb(10, 32, 226);
+    background-color: rgb(44, 190, 226);
     color:#eee;
     height:30px;
     padding:40px;
